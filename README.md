@@ -12,6 +12,7 @@ Additional reading:
 https://steamcommunity.com/sharedfiles/filedetails/?id=885555151
 
 Recommended:
+https://github.com/SteamGridDB/SGDBoop
 https://www.steamgriddb.com/boop
 (If you are sick of seeing blank grid view icons for your non steam games and apps!!)
 https://www.steamgriddb.com/profile/76561198999831843
