@@ -4,5 +4,5 @@ This bash script was designed to be used before going into offline mode. You pla
 You need to locate your steam app manifest files first.
 Make sure you right click the shellscript and mark it as executable.
 Place it in the folder with your app manifest files. In my case it is "/home/katie/.steam/root/steamapps/"
-This script can be launched directly from steam.
+This script can be launched directly from steam by adding a non steam game and browsing to the folder you placed the shellscript into.
 State flags "4" are fully playable. State flags other than 4 or 516 are variable. In most cases from my experience anything else indicated an update or other.
