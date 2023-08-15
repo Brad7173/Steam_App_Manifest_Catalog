@@ -13,4 +13,4 @@ This code is under development!!! Use at your own discretion!
 You can also cd into the directory containing .sh files and launch them by typing ./shellscriptname.sh
 
 If you select your steam directory and modify your non duplicated app manifest files you do so at your own discretion. 
-Keep in mind if you do this correctly it will create .bak files of the ones you copied into the "Original" directory.
+Keep in mind if you do this correctly it will create .bak files of the ones you copied into the "Original" directory. (.bak files can be renamed to .acf)
