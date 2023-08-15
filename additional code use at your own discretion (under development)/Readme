@@ -1,2 +1,16 @@
 This code is under development!!! Use at your own discretion!
 #1 DO NOT PUT THESE SCRIPTS INTO YOUR STEAM FOLDER!! These are to go into a different folder!!
+#################################################################################################
+(1) You need to create a directory in your home folder named "SteamBackup".
+(2) Inisde of it create a directory named "AppManifest".
+(3) Inside of it create a directory named "Original".
+(4) Locate your steam folder containing your app manifest files. (I use Kubuntu 22.04 LTS and mine is located at "/home/username/.steam/root/steamapps/" username would be your username for your os.
+(5) Copy all of your app manifest files into the folder you created "/home/username/SteamBackup/AppManifest/Original/".
+(6) You can also place the Active_Steam_Appmanifest_Catalog.sh file into the same directory.
+(7) Place the Appmanifest_Mod.sh and the Backed_Up_Steam_Appmanifest_Catalog.sh files into the "/home/username/SteamBackup/" directory.
+#################################################################################################
+.sh files are shellscript files and can be clicked then right clicked in kde and ran in konsole (each os is different as for what terminal it uses)
+You can also cd into the directory containing .sh files and launch them by typing ./shellscriptname.sh
+
+If you select your steam directory and modify your non duplicated app manifest files you do so at your own discretion. 
+Keep in mind if you do this correctly it will create .bak files of the ones you copied into the "Original" directory.
