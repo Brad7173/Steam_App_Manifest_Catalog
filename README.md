@@ -10,3 +10,8 @@ State flags "4" are fully playable. State flags other than 4 or 516 are variable
 
 Additional reading:
 https://steamcommunity.com/sharedfiles/filedetails/?id=885555151
+
+Recommended:
+https://www.steamgriddb.com/boop
+(If you are sick of seeing blank grid view icons for your non steam games and apps!!)
+https://www.steamgriddb.com/profile/76561198999831843
